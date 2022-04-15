@@ -11,3 +11,6 @@
 
 ### DAY 4
 - Create function to subtract difference of 2 int parameters from their sum and return their result.
+
+### DAY 5
+- Create function to return the remainder of a passed parameter when divided by 3.
