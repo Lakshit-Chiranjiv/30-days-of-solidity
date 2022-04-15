@@ -8,3 +8,6 @@
 
 ### DAY 3
 - Creating functions to get and set state variable
+
+### DAY 4
+- Create function to subtract difference of 2 int parameters from their sum and return their result.
