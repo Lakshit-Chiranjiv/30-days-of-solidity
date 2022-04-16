@@ -14,3 +14,6 @@
 
 ### DAY 5
 - Create function to return the remainder of a passed parameter when divided by 3.
+
+### DAY 6
+- Create function to return the average of 3 numbers passed as parameter.
