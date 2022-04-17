@@ -17,3 +17,6 @@
 
 ### DAY 6
 - Create function to return the average of 3 numbers passed as parameter.
+
+### DAY 7
+- Create function to return the sum of digits of a number passed as parameter.
