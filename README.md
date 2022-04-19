@@ -23,3 +23,6 @@
 
 ### DAY 8
 - Create function to return the nth term of a series where S(n)=S(n-1)+S(n-2)+S(n-3), n>3,(1st 3 terms given)
+
+### DAY 9
+- Create function to return 1 if number passed through parameter is prime ,else 0
