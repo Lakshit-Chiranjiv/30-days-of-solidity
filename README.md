@@ -29,3 +29,6 @@
 
 ### DAY 10
 - Create function to return x raised to power y, x & y are passed through parameter
+
+### DAY 11
+- Create function to return 1 if number passed through parameter is palindrome ,else 0
