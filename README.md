@@ -32,3 +32,6 @@
 
 ### DAY 11
 - Create function to return 1 if number passed through parameter is palindrome ,else 0
+
+### DAY 12
+- Create function to return reverse of a number passed through parameter
