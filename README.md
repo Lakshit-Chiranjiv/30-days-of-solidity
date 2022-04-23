@@ -35,3 +35,6 @@
 
 ### DAY 12
 - Create function to return reverse of a number passed through parameter
+
+### DAY 13
+- Create function to return reverse of an dynamic array passed through parameter with its length
