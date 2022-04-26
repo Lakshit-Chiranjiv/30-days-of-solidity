@@ -44,3 +44,6 @@
 
 ### DAY 15
 - Create function to return sorted form of dynamic array passed through parameter with its length
+
+### DAY 16
+- Create function to return count of distinct elements of dynamic array passed through parameter with its length
