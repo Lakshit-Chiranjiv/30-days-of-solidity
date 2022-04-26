@@ -41,3 +41,6 @@
 
 ### DAY 14
 - Create function to return a 2 multiplied with each element of dynamic array passed through parameter with its length
+
+### DAY 15
+- Create function to return sorted form of dynamic array passed through parameter with its length
