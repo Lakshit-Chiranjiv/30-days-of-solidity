@@ -50,3 +50,6 @@
 
 ### DAY 17
 - Create function to return 1 if num is found in the dynamic array passed through parameter with its length and num is also passed, if not found function returns 0
+
+### DAY 18
+- Create function to return sum of elements of dynamic array passed through parameter with its length
