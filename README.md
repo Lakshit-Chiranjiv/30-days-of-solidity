@@ -53,3 +53,6 @@
 
 ### DAY 18
 - Create function to return sum of elements of dynamic array passed through parameter with its length
+
+### DAY 19
+- Create function to return sum of series 1+x+x^2+x^3....+x^n, x and n are passed as parameter
