@@ -68,3 +68,7 @@
 
 ### DAY 27
 - Create a mapping(address => uint256).Create a function updateBalance(balance to update) . This updateBalance() will take one argument - a uint type variable. This function will update the balance of the address who has called this updateBalance().Create a function checkBalance(address of a user) . This checkBalance(address user)() will take one argument - a address type variable. This function will return the balance of the user who has called this function. With this function user can only check his/her own balance only. If the user tries to check some other address balance the checkBalance() should revert with "You are not the owner of the account".
+
+### DAY 28
+- Create a constructor() to set the owner of contract . [Hint: use msg.sender]. Create a payable function send(address type array for storing addresses, uint type array to store the amount). This send() will do the following - The send() can only be called by owner of the contract. Check whether the length of the address array is equal to length of the amount array. If not revert with "to must be same length as amount".
+If the length of both array are equal. Then it will transfer the amount from the amount array to the address array in such a way address at ith index of address array receives the amount at ith index of amount array. For Example - If address array =[0x412, 0x2ab, 0x3de] and amount array = [10,5,90] then send() will transfer amount 10 to address 0x412 , amount 5 to address 0x2ab, amount 90 to address 03de.
