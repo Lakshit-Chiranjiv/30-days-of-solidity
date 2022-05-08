@@ -57,6 +57,10 @@
 ### DAY 19
 - Create function to return sum of series 1+x+x^2+x^3....+x^n, x and n are passed as parameter
 
+### DAY 21
+- Create a function hcf(num1,num2) . This hcf() will take two arguments uint type number1 and number2.
+The hcf() will find the of number1 and number2. 
+
 ### DAY 22
 - Create two functions a) setBook(title(string),author(string),id(uint)) - To set the book title, author and id given in the structure. b) getBook() - To get the book title,author and id.
   
