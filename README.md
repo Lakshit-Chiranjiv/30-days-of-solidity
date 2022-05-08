@@ -57,6 +57,9 @@
 ### DAY 19
 - Create function to return sum of series 1+x+x^2+x^3....+x^n, x and n are passed as parameter
 
+### DAY 20
+- Create a function secondMax(array, length of array,element to search) . This secondMax() will take two arguments - a dynamic int type array and length of the array.The secondMax() will find the second largest element in an array. 
+
 ### DAY 21
 - Create a function hcf(num1,num2) . This hcf() will take two arguments uint type number1 and number2.
 The hcf() will find the of number1 and number2. 
