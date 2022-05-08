@@ -59,3 +59,6 @@
   
 ### DAY 24
 - Create two functions a) set(name of student, marks in maths,marks in science,marks in english) - To set the name and marks of a student in marks array. b) get() - To get the name,marks in maths,marks in science and marks in english of the student.
+
+### DAY 25
+- Create a variable of enum type.Create a function setLarge(). This will set the value of the enum type variable (created at step 1) with LARGE.Create a function getChoice() which will return the value of the enum type variable.
