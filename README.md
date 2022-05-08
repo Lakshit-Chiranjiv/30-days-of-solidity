@@ -57,6 +57,9 @@
 ### DAY 19
 - Create function to return sum of series 1+x+x^2+x^3....+x^n, x and n are passed as parameter
   
+### DAY 23
+- Create "Book type" dynamic array. This "Book type" array will contain different types of Book. Create a counter( initialised by 1) which increases every time when a Book is added to the "Book type" array. This counter will act as a id for the Books added in the "Book type" array. Every Book in the "Book type" array will have a unique id. Create two functions a) setBook(title(string),author(string),id(uint)) - To set the book title, author and id given in the "Book type" array. b) getBook(id(uint)) - To get the book title,author and id of the Book whoose id is passed as an argument.
+
 ### DAY 24
 - Create two functions a) set(name of student, marks in maths,marks in science,marks in english) - To set the name and marks of a student in marks array. b) get() - To get the name,marks in maths,marks in science and marks in english of the student.
 
