@@ -56,3 +56,6 @@
 
 ### DAY 19
 - Create function to return sum of series 1+x+x^2+x^3....+x^n, x and n are passed as parameter
+  
+### DAY 24
+- Create two functions a) set(name of student, marks in maths,marks in science,marks in english) - To set the name and marks of a student in marks array. b) get() - To get the name,marks in maths,marks in science and marks in english of the student.
