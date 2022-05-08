@@ -62,3 +62,6 @@
 
 ### DAY 25
 - Create a variable of enum type.Create a function setLarge(). This will set the value of the enum type variable (created at step 1) with LARGE.Create a function getChoice() which will return the value of the enum type variable.
+
+### DAY 26
+- Create a constructor() to hold the address of the owner. [Hint: use msg.sender].Create a function returnOwner() which returns the address of the owner. This returnOwner() can only be called by the owner (that we set using constructor()). If some other address tries to call this returnOwner() it should revert with this statement "You are not the owner".
