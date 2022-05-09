@@ -85,3 +85,6 @@ The hcf() will find the of number1 and number2.
 ### DAY 28
 - Create a constructor() to set the owner of contract . [Hint: use msg.sender]. Create a payable function send(address type array for storing addresses, uint type array to store the amount). This send() will do the following - The send() can only be called by owner of the contract. Check whether the length of the address array is equal to length of the amount array. If not revert with "to must be same length as amount".
 If the length of both array are equal. Then it will transfer the amount from the amount array to the address array in such a way address at ith index of address array receives the amount at ith index of amount array. For Example - If address array =[0x412, 0x2ab, 0x3de] and amount array = [10,5,90] then send() will transfer amount 10 to address 0x412 , amount 5 to address 0x2ab, amount 90 to address 03de.
+
+### DAY 29
+- Create an array(address type) which stores only 16 elements.Function getTeamPlayers() - To return the entire array elements.Function selectJerseyNumber() - It will take only one argument of uint type and returns the players address from the array created above. a) The argument passed into the function must be greater than equal to zero and less than equal to 15. 
