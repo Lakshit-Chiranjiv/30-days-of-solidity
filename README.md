@@ -88,3 +88,6 @@ If the length of both array are equal. Then it will transfer the amount from the
 
 ### DAY 29
 - Create an array(address type) which stores only 16 elements.Function getTeamPlayers() - To return the entire array elements.Function selectJerseyNumber() - It will take only one argument of uint type and returns the players address from the array created above. a) The argument passed into the function must be greater than equal to zero and less than equal to 15. 
+
+### DAY 30
+- concatenate ( ) - This function will take two arguments i.e string 1 and string 2. It will concatenate string 1 and string 2 and will return the concatenated string.
